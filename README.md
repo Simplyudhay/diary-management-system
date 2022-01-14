@@ -1,2 +1,2 @@
-# library-management-system
-Library Management System Using C++
+# diary-management-system
+Diary Management System Using C++
